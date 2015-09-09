@@ -1,6 +1,7 @@
 # A list of javascript files required for the project, in dependency order
 javascripts:
   files:
-    - lib/chocolate-babka.js
+    - lib/count.js
+    - lib/announce.js
   specs:
     - spec/chocolate-babka-spec.js
